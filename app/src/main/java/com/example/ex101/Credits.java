@@ -11,7 +11,8 @@ import android.widget.TextView;
 /**
  * @author Liad Peretz
  * @version 1.0
- * @since 19 /11/20 Short description- Credits.
+ * @since 19 /11/20
+ * Short description- Credits.
  */
 public class Credits extends AppCompatActivity {
 
